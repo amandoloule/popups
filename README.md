@@ -1,5 +1,8 @@
 # popups
 
+## The project is on here:
+https://amandoloule.github.io/popups
+
 ## Project setup
 ```
 npm install
